@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project showcases data analysis and visualization using **Microsoft Power BI** across three datasets: AmazingCart, Customer Data, and Employee Layoffs.
+This project showcases data analysis and visualization using **Microsoft Power BI** across three datasets: AmazingCart, Customer Data, Employee Layoffs and FlightData.
 
 ### Key Tasks Performed
 - Created DAX measures to calculate the sum of numerical columns, total rows, valid records, missing values, minimum values, and maximum values.
